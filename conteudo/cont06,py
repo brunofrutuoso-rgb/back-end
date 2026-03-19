@@ -11,4 +11,9 @@ nome = input ('Qual é o seu nome?')
 print('prazer em conhece-lo {:^20}!'.format(nome))
 #Podemos escrever um resultado ha quantidade de caracteres específica ao colocar o valor dentro da mácara após escrever
 nome = input ('qual é seu nome')
-print
+print (prazer em conhece-lo {:20}! .format(nome)
+nome=input('qual é o seu nome?')
+print('prazer em conhece-lo{²0} '.format(nome))
+n1=(input('um valor'))
+print('o numero digitado foi{}sendo o seu sucessor {}e seu antecessor {}'. format)
+((n1),(n1+1), (n1-1))
